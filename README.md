@@ -1,1 +1,1 @@
-## Inferential Statistics Coursera Class Report
+## Inferential Statistics Coursera Class Reports
